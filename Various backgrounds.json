@@ -1,0 +1,15 @@
+{
+  "category": "Animals",
+  "wallpapers": [
+    {
+      "id": 1,
+      "title": "Wild Animals",
+      "url": "https://cdn.pixabay.com/photo/2018/09/18/20/03/animals-3687116_1280.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Cat",
+      "url": "https://cdn.pixabay.com/photo/2019/07/26/10/23/cat-4364464_1280.jpg"
+    }
+  ]
+}
